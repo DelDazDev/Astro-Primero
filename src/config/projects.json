@@ -1,0 +1,24 @@
+{
+  "projects": [
+    {
+      "title": "Proyecto 1",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia eligendi ipsumsapiente sunt quasi libero asperiores quos, omnis ut eos nihil earum consectetur.Non ipsam ipsa eveniet praesentium. Voluptates, dolorem!",
+      "image": "images/finger-print.svg"
+    },
+    {
+      "title": "Proyecto 2",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia eligendi ipsumsapiente sunt quasi libero asperiores quos, omnis ut eos nihil earum consectetur.Non ipsam ipsa eveniet praesentium. Voluptates, dolorem!",
+      "image": "images/finger-print.svg"
+    },
+    {
+      "title": "Proyecto 3",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia eligendi ipsumsapiente sunt quasi libero asperiores quos, omnis ut eos nihil earum consectetur.Non ipsam ipsa eveniet praesentium. Voluptates, dolorem!",
+      "image": "images/finger-print.svg"
+    },
+    {
+      "title": "Proyecto 4",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia eligendi ipsumsapiente sunt quasi libero asperiores quos, omnis ut eos nihil earum consectetur.Non ipsam ipsa eveniet praesentium. Voluptates, dolorem!",
+      "image": "images/finger-print.svg"
+    }
+  ]
+}

@@ -4,6 +4,7 @@ interface Props {
 }
 
 import "../styles/Layout.css";
+import Footer from "../components/Footer.astro";
 
 const { title } = Astro.props;
 ---
@@ -15,8 +16,9 @@ const { title } = Astro.props;
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Fazt Landing Page - {title}</title>
   </head><body>
-    <main class="mx-auto container bg-black pt-10">
+    <main class="mx-auto container bg-black md:pt-10">
       <slot />
+      <Footer />
     </main>
   </body>
 </html>
